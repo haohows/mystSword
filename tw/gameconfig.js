@@ -1,5 +1,1 @@
-window.gameconfig = {
-  feedbackUrl: "https://forms.gle/UP6vXKMymEZoagdR9",
-  shareUrl: "https://haohows.com/mystSword/tw",
-  shareText: "我是王大熊，從小混在巷口宮廟，會點小本事的靈異調查員，某天，老朋友傳來幾張照片，說有個神秘事件需要我這種「靈界收訊良好」的體質...",
-};
+window.gameconfig={feedbackUrl:"https://forms.gle/ZztnT4FskqjwUm3E7",shareUrl:"https://haohows.com/mystSword/tw",shareText:"我是王大熊，從小混在巷口宮廟，靠直覺靠香火，也靠幾分運氣混口飯吃，別人是看風景，我則看神明沒打算讓人知道的秘密..."};
